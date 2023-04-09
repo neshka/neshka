@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Agnieszka</h1>
-<h3 align="center">I'm Full Stack Software Engineer</h3>
+<h1 align="center">Hi 👋 I'm Agnieszka</h1>
+<h3 align="center">I'm a Full Stack Software Engineer</h3>
 
 - 🌱 I’m currently learning **prompt engineering**
 
