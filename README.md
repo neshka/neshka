@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 My name is Neshka <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /></h1>
+<h3 align="center">I'm a self-taught full stack software engineer</h3>
 <h3 align="center">If you want to connect, drop me a message :point_right: <a href="https://linkedin.com/in/neshka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neshka" height="30" width="40" /></a></h3>
-<h3 align="center">I'm a Full Stack Software Engineer</h3>
 <div align="center"><a href="https://1999azzar.github.io/1999AZZAR/"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="280" alt="daftpunktocat" /></a></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neshka" height="230" width="230" /></div>
 
